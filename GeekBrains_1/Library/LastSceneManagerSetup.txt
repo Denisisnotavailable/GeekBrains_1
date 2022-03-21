@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Grids MX/Examples/1-EditorExample/EditorExample.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
